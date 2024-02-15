@@ -1,17 +1,66 @@
-# Hi there! 👋
+Hello World! 👋🤖
+I'm Ivan, a passionate of Computer Programming and aspiring Application Developer.
 
-I'm [Ivan Arnauld](https://github.com/IvanArnauld), a passionate coder and lifelong learner exploring the vast world of programming languages.
+About Me
+👨‍💻 Aspiring Software Developer exploring the wonders of code.
+🌐 Open to Collaborations and eager to contribute to exciting projects.
+💻 Coding is my way of unleashing creativity and solving problems.
+Learning Journey
+🌱 I'm currently diving deep into:
 
-## About Me
+Component Based Programming
+Emerging technologies
+Project Management
+Cloud Services
+Secure Computing
+👯 I'm keen to collaborate on projects involving:
 
-- 👀 I'm deeply interested in coding and software development.
-- 🌱 Currently, I'm on a learning journey exploring a multitude of programming languages, always eager to expand my skill set.
-- 💼 As a developer, I have a keen interest in Object-Oriented Programming (OOP) principles and design patterns.
-- 🤝 I'm open to collaboration on OOP projects and anything related to building robust, scalable software.
+C
+C++
+C#
+Java
+Javascript
+Kotlin
+PHP
+Python
+Web Development
+Mobile App Development
+👉 All of my projects are available at GitHub.
 
-## Get in Touch
+Ask Me About
+🚀 Software Development
+📱 Mobile Development
+💡 Programming Languages
+🌐 Web Technologies
+📊 Database Management
+🔧 Tools & IDEs
+🌟 Open Source
+📚 Personal Interests
+Connect with Me
+📫 How to reach me: skyarnauld4@gmail.com
+📄 Know about my experiences: [Resume Link]([Ivan Kepseu Resume - Developer 2024.pdf](https://github.com/IvanArnauld/IvanArnauld/files/14302671/Ivan.Kepseu.Resume.-.Developer.2024.pdf))
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ivan-arnauld/)
-- 🌐 Portfolio: [IvanArnauld.onedrive](https://1drv.ms/f/s!AkSSZPmE4iwhiiu_gKvbDvmZOpUl?e=JGCSTL)
+Connect with Me
+LinkedIn
+HackerRank
 
-Feel free to explore my repositories and let's connect! 💻✨
+I have used and mastered these frameworks:
+
+React
+React Native
+Angular
+ASP.NET
+Vue
+Other Proficiency:
+
+Database management
+Power BI
+Tools:
+
+Visual Studio
+VS Code
+Android Studio
+Oracle Apex
+MSSQL
+
+Feel free to explore my repositories, and let's connect! 💻✨
