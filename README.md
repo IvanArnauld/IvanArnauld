@@ -53,8 +53,8 @@ I'm Ivan, a passionate Computer Programmer and aspiring Application Developer.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ivan-arnauld/)
-- [HackerRank](https://www.hackerrank.com/IvanArnauld)
+- [LinkedIn](WWW.LINKEDIN.COM/IN/IVAN-KEPSEU-0577A7207)
+- [HackerRank](https://www.hackerrank.com/profile/skyarnauld4)
 
 ## Technologies I've Mastered
 
