@@ -12,6 +12,6 @@ I'm [Ivan Arnauld](https://github.com/IvanArnauld), a passionate coder and lifel
 ## Get in Touch
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ivan-arnauld/)
-- 🌐 Portfolio: [IvanArnauld.dev](https://1drv.ms/f/s!AkSSZPmE4iwhiiu_gKvbDvmZOpUl?e=JGCSTL)
+- 🌐 Portfolio: [IvanArnauld.onedrive](https://1drv.ms/f/s!AkSSZPmE4iwhiiu_gKvbDvmZOpUl?e=JGCSTL)
 
 Feel free to explore my repositories and let's connect! 💻✨
