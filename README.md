@@ -54,7 +54,7 @@ I'm Ivan, a passionate Computer Programmer and aspiring Application Developer.
 
 ## Connect with Me
 
-- [LinkedIn](WWW.LINKEDIN.COM/IN/IVAN-KEPSEU-0577A7207)
+- [LinkedIn](www.linkedin.com/in/ivan-kepseu-0577a7207)
 - [HackerRank](https://www.hackerrank.com/profile/skyarnauld4)
 
 ## Technologies I've Mastered
@@ -66,6 +66,7 @@ I have used and mastered these frameworks:
 - Angular
 - ASP.NET
 - Vue
+- Component Based Programming with .NET
 
 Other Proficiency:
 
