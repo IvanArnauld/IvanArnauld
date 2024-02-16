@@ -38,6 +38,7 @@ I'm Ivan, a passionate Computer Programmer and aspiring Application Developer.
 ## Ask Me About
 
 - 🚀 Software Development
+- 🎮 Game Development
 - 📱 Mobile Development
 - 💡 Programming Languages
 - 🤖 Machine Learning
@@ -66,12 +67,15 @@ I have used and mastered these frameworks:
 - Angular
 - ASP.NET
 - Vue
+- Unit Testing
 - Component Based Programming with .NET
 
 Other Proficiency:
 
 - Database management
 - Power BI
+- Visio
+- Project Management
 
 Tools:
 
@@ -80,5 +84,7 @@ Tools:
 - Android Studio
 - Oracle Apex
 - MSSQL
+- Microsoft SQL Server Management Studio
+- Unity
 
 Feel free to explore my repositories, and let's connect! 💻✨
