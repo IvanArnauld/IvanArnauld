@@ -40,6 +40,7 @@ I'm Ivan, a passionate Computer Programmer and aspiring Application Developer.
 - 🚀 Software Development
 - 📱 Mobile Development
 - 💡 Programming Languages
+- 🤖 Machine Learning
 - 🌐 Web Technologies
 - 📊 Database Management
 - 🔧 Tools & IDEs
