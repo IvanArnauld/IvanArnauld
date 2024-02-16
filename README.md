@@ -54,8 +54,8 @@ I'm Ivan, a passionate Computer Programmer and aspiring Application Developer.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ivan-kepseu-0577a7207/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ivan-kepseu-0577a7207/)
-- [HackerRank](https://www.hackerrank.com/profile/skyarnauld4)
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ivan-kepseu-0577a7207/)
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)" />](https://www.hackerrank.com/profile/IvanKepseu)
 
 ## Technologies I've Mastered
 
