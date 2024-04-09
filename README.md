@@ -51,7 +51,7 @@ I'm Ivan, a passionate Computer Programmer and aspiring Application Developer.
 ## Connect with Me
 
 - 📫 How to reach me: [skyarnauld4@gmail.com](mailto:skyarnauld4@gmail.com)
-- 📄 Know about my experiences: [Resume Link](https://github.com/IvanArnauld/IvanArnauld/files/14302671/Ivan.Kepseu.Resume.-.Developer.2024.pdf)
+- 📄 Know about my experiences: [Resume Link](https://drive.google.com/file/d/1zh17-Wwmg_F6afM0pErABiOfD2XK5goo/view?usp=sharing)
 
 ## Connect with Me
 
