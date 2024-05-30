@@ -1,10 +1,10 @@
 # Hello World! 👋🤖
 
-I'm Ivan, a passionate Computer Programmer and aspiring Application Developer.
+I'm Ivan, a passionate Computer Programmer and Tech Nerd.
 
 ## About Me
 
-- 👨‍💻 Aspiring Software Developer exploring the wonders of code.
+- 👨‍💻 Junior Software Developer exploring the wonders of code.
 - 🌐 Open to Collaborations and eager to contribute to exciting projects.
 - 💻 Coding is my way of unleashing creativity and solving problems.
 
